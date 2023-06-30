@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha-ananda-gowda&show_icons=true&theme=radical" alt="amisha-ananda-gowda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
 
 
 
