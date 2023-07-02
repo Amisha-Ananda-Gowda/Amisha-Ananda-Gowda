@@ -1,3 +1,4 @@
+<!--![MasterHead](https://www.domainracer.com/2image/vps15.gif)-->
 <h1 align="center">Hi 👋, I'm Amisha Ananda Gowda</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
@@ -21,9 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="amisha-ananda-gowda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="amisha-ananda-gowda" /></p>
+<br>
+<p>&nbsp;</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
 
 
 
