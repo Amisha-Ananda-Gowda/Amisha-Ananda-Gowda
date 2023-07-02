@@ -22,10 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 <br>
-<p>&nbsp;</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="amisha-ananda-gowda" /></p>
 <br>
-<p>&nbsp;</p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
 
 
