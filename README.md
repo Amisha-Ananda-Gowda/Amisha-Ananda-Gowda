@@ -20,13 +20,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p><br>
 
-<p><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="amisha-ananda-gowda" /></p>
-<br>
 
-<p>&nbsp;<br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Amisha-Ananda-Gowda&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="amisha-ananda-gowda" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha-Ananda-Gowda&theme=radical&hide_border=false" alt="amisha-ananda-gowda" /></p>
 
 
 
